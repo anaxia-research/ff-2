@@ -1,0 +1,13 @@
+permutation alpha: bijective and preserves the Golay code: True
+permutation beta: bijective and preserves the Golay code: True
+permutation gamma: bijective and preserves the Golay code: True
+permutation delta: bijective and preserves the Golay code: False
+permutation delta2: bijective and preserves the Golay code: True
+xi_T found (sign set size 4, block +H): preserves Lambda_4
+generators: ['alpha', 'beta', 'gamma', 'delta2', 'eps_octad', 'xi']
+orbit of one minimal vector under the group generated: 196560
+inner-product classes w.r.t. u: {-4: 1, -2: 4600, -1: 47104, 0: 93150, 1: 47104, 2: 4600, 4: 1}
+1 random stabilizer element(s): 8548 orbits
+2 random stabilizer element(s): 7 orbits
+the 7 orbits of the stabilizer of u are exactly the 7 inner-product classes
+=> Co_0 has rank 7 on Lambda_4; on pairs {+-v} the rank is 4 (|<u,v>| = 4, 2, 1, 0)
